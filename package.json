@@ -1,0 +1,12 @@
+{
+    "name": "hammys-bot-of-bottery",
+    "version": "1.0.0",
+    "description": "The Marvelous Bot of Bottery and Trickery",
+    "main": "bot.js",
+    "author": "Hammy",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "save": "^2.4.0",
+        "winston": "^3.2.1"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "games": ["Town of Salem", "Rocket League", "Tabletop Simulator", "SMITE: Battleground of the Gods"],
+
+    "gifs" : ["https://tenor.com/view/sad-mr-bean-nope-gif-13134079",
+              "https://tenor.com/view/cheesy-terry-crews-gif-5494210",
+              "https://tenor.com/view/buzz-lightyear-no-sign-of-intelligent-life-dumb-toy-story-gif-11489315",
+              "https://tenor.com/view/bon-voyage-batman-gif-5499100",
+              "https://tenor.com/view/offended-things-isay-imagine-stuff-gif-13760597",
+              "https://tenor.com/view/midget-dance-summer-vibe-gif-11201614",
+              "https://tenor.com/view/whats-wrong-with-you-reaction-gif-5820751",
+              "https://tenor.com/view/weird-weirdo-messy-sausage-gif-12911325",
+              "https://tenor.com/view/naruto-deaf-kids-gif-10676529",
+              "https://media.discordapp.net/attachments/448169806282096640/626120127133515817/WPWNtmE.gif",
+              "https://tenor.com/view/run-away-ashida-mana-scary-monster-gif-11641879",
+              "https://tenor.com/view/furry-gif-4903957",
+              "https://tenor.com/view/jarjarbinks-approves-starwars-gif-4837587"
+        ],
+
+    "boys" : ["https://tenor.com/view/assemble-gif-5846817",
+              "https://tenor.com/view/avengers-avengers-endgame-avengers-assemble-marvel-assemble-gif-14593090",
+              "https://tenor.com/view/power-power-rangers-gif-5209421",
+              "https://tenor.com/view/pugs-avengers-marvel-avengers-assemble-gif-14751190",
+              "https://tenor.com/view/ben-stiller-dancing-game-on-its-time-gif-11283850"
+        ],
+
+    "roles": ["Solo", "Jungle", "Mid", "Support", "Carry"],
+
+    "class": ["Warrior", "Assasin", "Mage", "Support", "Carry"]
+}
